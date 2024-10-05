@@ -22,8 +22,7 @@ export task_5_sentence=""
 export task_5_file=""
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab/ARC132.sh
-
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Arcade-Labs/blob/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab%20%20ARC132/ARC132.sh
 sudo chmod +x ARC132.sh
 
 ./ARC132.sh
@@ -31,6 +30,6 @@ sudo chmod +x ARC132.sh
 
 ### Congratulations 🎉 You completed the Lab !
 
-#### Don't Forget to Join the [Whatsapp Group](https://chat.whatsapp.com/FbVg9NI6Dp4CzfdsYmy0AE)
-
 # Subscribe our channel [Arcade Crew](https://www.youtube.com/@Arcade61432)
+
+### Don't Forget to Join the [Whatsapp Group](https://chat.whatsapp.com/FbVg9NI6Dp4CzfdsYmy0AE)
