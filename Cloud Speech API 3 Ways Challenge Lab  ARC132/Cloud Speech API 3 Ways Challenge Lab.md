@@ -28,7 +28,7 @@ sudo chmod +x ARC132.sh
 ./ARC132.sh
 ```
 
-### Congratulations 🎉 You completed the Lab !
+### Congratulations!!! You completed the Lab! 🎉
 
 # Subscribe our channel [Arcade Crew](https://www.youtube.com/@Arcade61432)
 
