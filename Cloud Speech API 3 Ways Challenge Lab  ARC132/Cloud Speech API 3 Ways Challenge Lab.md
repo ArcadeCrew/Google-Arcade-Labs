@@ -23,23 +23,8 @@ export task_5_file=""
 #!/bin/bash
 # Define color variables
 
-BLACK=`tput setaf 0`
-RED=`tput setaf 1`
-GREEN=`tput setaf 2`
-YELLOW=`tput setaf 3`
-BLUE=`tput setaf 4`
-MAGENTA=`tput setaf 5`
-CYAN=`tput setaf 6`
-WHITE=`tput setaf 7`
-
-BG_BLACK=`tput setab 0`
 BG_RED=`tput setab 1`
 BG_GREEN=`tput setab 2`
-BG_YELLOW=`tput setab 3`
-BG_BLUE=`tput setab 4`
-BG_MAGENTA=`tput setab 5`
-BG_CYAN=`tput setab 6`
-BG_WHITE=`tput setab 7`
 
 BOLD=`tput bold`
 RESET=`tput sgr0`
@@ -112,8 +97,8 @@ curl -s -X POST \
 "https://translation.googleapis.com/language/translate/v2/detect?key=${API_KEY}" \
 -o "$task_5_file"
 
-echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
-echo "${BG_GREEN}${BOLD}Subscribe our Channel Arcade Crew !!!${RESET}"
+echo -e "${BG_GREEN}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo -e "${BG_GREEN}${BOLD}Subscribe to our Channel: \e]8;;https://www.youtube.com/@Arcade61432\e\\https://www.youtube.com/@Arcade61432\e]8;;\e\\${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
