@@ -86,12 +86,8 @@ echo -e "${BG_GREEN}${BOLD}Subscribe to our Channel: \e]8;;https://www.youtube.c
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations!!! You completed the Lab! 🎉
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+# Subscribe our channel [Arcade Crew](https://www.youtube.com/@Arcade61432)
 
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Don't Forget to Join the [Whatsapp Group](https://chat.whatsapp.com/FbVg9NI6Dp4CzfdsYmy0AE)
