@@ -1,6 +1,6 @@
 # Cloud Functions: Qwik Start - Command Line | [GSP080](https://www.cloudskillsboost.google/focuses/916?parent=catalog) |
 
-## [Youtube Solution](https://youtu.be/xcl-Ai6bG8Q)
+## [Youtube Solution](https://www.youtube.com/watch?v=wjSrI-UHmM8)
 
 ### Run the following Commands in CloudShell
 
